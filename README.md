@@ -1,6 +1,6 @@
 # CommonsenseQA의 오답 유형 분석: Unified-QA 모델을 중심으로
 
-# 1. 연구목적 
+## 1. 연구목적 
 Talmor et al.(2019)에서 제시된 commonsenseQA의 low accuracy 항목에 대해 unified-QA 모델에서 얼마나 개선되었는지 확인하고, 오류의 경향을 분석하여 commonsenseQA 모델이 가지는 취약점과 앞으로의 연구가 신경써야 할 과제를 제언한다.
 2. 연구방법
 1) Dataset: Talmor et al.(2019)에서 사용된 development data set(총 1221개의 질문)에서 100개의 질문을 randomly sample
