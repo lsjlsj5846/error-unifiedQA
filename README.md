@@ -7,4 +7,4 @@ Talmor et al.(2019)에서 제시된 commonsenseQA의 low accuracy 항목에 대�
 2) Tool: Google Colab
 3) Khashabi et al.(2020)에서 소개된 unified-QA 모델 (unifiedQA-v2-t5-large-1251000)에 test input으로 제공하여 결과를 확인, 오답 항목을 manually inspect하여 각 항목이 어떤 오답 유형에 속하는지 분류하고 빈도를 계산
 ### 3. 코드 실행 방법
-FinalCode.ipynb를 Google Colab 또는 Anaconda 등의 Notebook에서 실행
+FinalCode.ipynb를 Google Colab 또는 Jupyter Notebook에서 실행
